@@ -5,12 +5,12 @@ Minimal theme with a hint of Synthwave. Includes 2 themes: Dark Floral and Light
 
 # Dark Floral
 
-![Dark Floral](images/dark-floral.png)
+![Dark Floral](https://github.com/annalifatou/minimal-wave/raw/main/images/dark-floral.png)
 
 
 # Light Floral
 
-![Light Floral](images/light-floral.png)
+![Light Floral](https://github.com/annalifatou/minimal-wave/raw/main/images/light-floral.png)
 
 
 # Installation
