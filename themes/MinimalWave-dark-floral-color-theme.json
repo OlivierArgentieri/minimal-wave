@@ -46,7 +46,7 @@
 		// Sidebar
 		"sideBarTitle.foreground": "#ffffff",
 		"sideBar.foreground": "#ffffff",
-		"sideBar.background": "#080809", // also interesting: 080809. 121316
+		"sideBar.background": "#121316",
 		"sideBarSectionHeader.background": "#121316",
 		"sideBarSectionHeader.foreground": "#EAF4F4",
 		// "sideBarSectionHeader.border": "#1e2034",
