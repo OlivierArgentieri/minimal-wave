@@ -1,0 +1,49 @@
+{
+    "name": "minimal-wave",
+    "displayName": "minimal-wave",
+    "description": "Mostly minimal with some wave",
+    "version": "0.0.1",
+    "publisher": "annalifatou",
+    "author": {
+        "name": "Anna Li-Fatou"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/annalifatou/minimal-wave"
+    },
+    "bugs": {
+        "url": "https://github.com/annalifatou/minimal-wave/issues"
+    },
+	"icon": "images/logo.png",
+	"galleryBanner": {
+		"color": "#121316",
+		"theme": "dark"
+	},
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark theme",
+        "Light theme",
+        "Minimal",
+        "Floral",
+        "Purple"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimal Wave - Dark Floral",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MinimalWave-dark-floral-color-theme.json"
+            },
+            {
+                "label": "Minimal Wave - Light Floral",
+                "uiTheme": "vs",
+                "path": "./themes/MinimalWave-light-floral-color-theme.json"
+            }
+        ]
+    }
+}

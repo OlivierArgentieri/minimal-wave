@@ -1,0 +1,15 @@
+body {
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 24px;
+}
+
+h1 {
+  font-size: 35px;
+  margin: 5px;
+}
+
+.someclass { color: yellow; }
+
+#someid { color: green; }
