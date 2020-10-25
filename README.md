@@ -5,12 +5,12 @@ Minimal theme with a hint of Synthwave. Includes 2 themes: Dark Floral and Light
 
 # Dark Floral
 
-![Dark Floral](images/dark-floral-open-1.png)
+![Dark Floral](images/dark-floral.png)
 
 
 # Light Floral
 
-![Light Floral](images/light-floral-open-1.png)
+![Light Floral](images/light-floral.png)
 
 
 # Installation
