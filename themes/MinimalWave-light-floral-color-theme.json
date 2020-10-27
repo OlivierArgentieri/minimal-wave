@@ -130,9 +130,9 @@
 		/* Input control */
 		"input.background": "#fcfcfc",
 		"input.foreground": "#141415",
-		"inputOption.activeBorder": "#636363",
 		"input.placeholderForeground": "#636363",
-		"inputOption.activeBackground": "#fcfcfc",
+		"inputOption.activeBorder": "#695FAB",
+		"inputOption.activeForeground": "#695FAB",
 
 		/* Welcome Page */
 		"welcomePage.background": "#fcfcfc",
@@ -147,11 +147,11 @@
 		/* Foreground & Background */
 		"descriptionForeground": "#8f8fff",
 		"menu.selectionBackground": "#fcfcfc",
-		"foreground": "#695FAB",
-		"selection.background": "#fcfcfc",
+		"selection.background": "#a3aaff",
 		"menubar.selectionBackground": "#ffffff",
 		"editor.findMatchBackground": "#fcfcfc",
 		"menu.selectionForeground": "#52526d",
+		"foreground": "#1e2039",
 
 		"editor.rangeHighlightBackground": "#8d67ff0d", // search highlight
 
