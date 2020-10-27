@@ -167,7 +167,7 @@
 		"editorLink.activeForeground": "#A599E9",
 
 		// Focus
-	    "focusBorder": "#121316",
+		"focusBorder": "#121316",
 
 		// Input control
 		"input.foreground": "#f2f2f2",
