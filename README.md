@@ -1,5 +1,6 @@
-# README
-## Minimal Wave
+# Minimal Wave
+
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/annalifatou.minimal-wave?color=a197e1&style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=annalifatou.minimal-wave) [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/annalifatou.minimal-wave?color=a197e1&logoColor=fff&style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=annalifatou.minimal-wave)
 
 Minimal theme with a hint of Synthwave. Includes 2 themes: Dark Floral and Light Floral.
 
