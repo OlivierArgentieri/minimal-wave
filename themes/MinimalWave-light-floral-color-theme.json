@@ -82,13 +82,19 @@
 		"activityBar.inactiveForeground": "#e1e3ff",
 		"activityBar.activeBorder": "#695FAB",
 		"activityBar.border": "#e1e3ff",
+		"activityBar.activeFocusBorder": "#695FAB",
+
+		// Badges
 		"activityBarBadge.background": "#695FAB",
 		"activityBarBadge.foreground": "#ffffff",
-		"activityBar.activeFocusBorder": "#695FAB",
+		"badge.background": "#695FAB",
+		"badge.foreground": "#ffffff",
 
 		/* Status Bar */
 		"statusBar.foreground": "#121316",
 		"statusBar.background": "#fcfcfc",
+		"statusBar.debuggingBackground": "#695FAB",
+		"statusBar.debuggingForeground": "#ffffff",
 
 		/* Integrated Terminal */
 		"panelSectionHeader.background": "#fcfcfc",
@@ -133,6 +139,7 @@
 		"input.placeholderForeground": "#636363",
 		"inputOption.activeBorder": "#695FAB",
 		"inputOption.activeForeground": "#695FAB",
+		"inputValidation.errorForeground": "#8d8dff",
 
 		/* Welcome Page */
 		"welcomePage.background": "#fcfcfc",

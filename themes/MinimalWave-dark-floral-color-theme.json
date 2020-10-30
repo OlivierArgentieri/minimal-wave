@@ -4,6 +4,10 @@
 	"colors": {
 		// Theme colors -- https://code.visualstudio.com/api/references/theme-color
 
+		// Background/foreground
+		"selection.background": "#614eda5d",
+		"foreground": "#695FAB",
+
 		// Editor Group header
 		"editorGroupHeader.tabsBackground": "#121316",
 		"editorGroupHeader.noTabsBackground": "#ffffff",
@@ -17,7 +21,7 @@
 
 		// Editor
 		"editor.background": "#121316",
-		"editor.foreground": "#D3C4E3",
+		"editor.foreground": "#ffffff",
 		// "editorGroup.border": "#121316",
 		"editorLineNumber.foreground": "#25254a",
 		"editorLineNumber.activeForeground": "#25254a",
@@ -62,8 +66,6 @@
 		// Menu
 		"menu.background": "#000000",
 		"menu.foreground": "#EAF4F4",
-		"selection.background": "#a3aaff",
-		"foreground": "#a197e1",
 
 		// Button
 		"button.background": "#A7ABDD",
@@ -95,18 +97,22 @@
 		// Activity Bar
 		"activityBar.inactiveForeground": "#40436e",
 		"activityBar.border": "#262842",
-		"activityBarBadge.background": "#695FAB",
-		"activityBarBadge.foreground": "#121316",
 		"activityBar.activeFocusBorder": "#695FAB",
 		"activityBar.foreground": "#a197e1",
 		"activityBar.background": "#121316",
 		"activityBar.activeBorder": "#a197e1",
 
+		// Badges
+		"activityBarBadge.background": "#695FAB",
+		"activityBarBadge.foreground": "#121316",
+		"badge.background": "#695FAB",
+		"badge.foreground": "#121316",
+
 		// Dropdown control
-		"dropdown.background": "#000000",
+		"dropdown.background": "#1e2039",
 		"dropdown.foreground": "#ffffff",
 		"dropdown.listBackground": "#000000",
-		"dropdown.border": "#000000",
+		"dropdown.border": "#1e2039",
 
 		// Integrated Terminal
 		"terminal.foreground": "#ffffff",
@@ -143,7 +149,7 @@
 		"list.inactiveSelectionForeground": "#40436e",
 		"list.inactiveSelectionBackground": "#121316",
 		"list.activeSelectionBackground": "#121316",
-		"list.hoverForeground": "#8f8fff",
+		"list.hoverForeground": "#A599E9",
 		"list.hoverBackground": "#121316",
 		"list.highlightForeground": "#f2f2f2",
 		"list.focusBackground": "#1e2039",
@@ -160,22 +166,21 @@
 		"searchEditor.findMatchBackground": "#25254a",
 		"editor.selectionForeground": "#25254a",
 		"editor.findMatchBackground": "#25254a",
-
 		"editor.findMatchHighlightBackground": "#25254a",
 		"minimap.findMatchHighlight": "#8d67ff46",
 		"editor.rangeHighlightBackground": "#25254a", // search highlight
 		"editorLink.activeForeground": "#A599E9",
 
 		// Focus
-		"focusBorder": "#121316",
+		"focusBorder": "#1e2039",
 
 		// Input control
-		"input.foreground": "#f2f2f2",
-		"input.background": "#141415",
+		"input.foreground": "#ffffff",
+		"input.background": "#6666cb48",
 		"input.border": "#141415",
 		"input.placeholderForeground": "#3e3e71",
-		"inputOption.activeBorder": "#695FAB",
-		"inputOption.activeForeground": "#695FAB",
+		"inputOption.activeBorder": "#ffffff",
+		"inputOption.activeForeground": "#ffffff",
 
 		// Settings
 		"settings.headerForeground": "#f9f7f7",
