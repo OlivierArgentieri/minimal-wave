@@ -23,8 +23,8 @@
 		"editor.background": "#121316",
 		"editor.foreground": "#ffffff",
 		// "editorGroup.border": "#121316",
-		"editorLineNumber.foreground": "#25254a",
-		"editorLineNumber.activeForeground": "#25254a",
+		"editorLineNumber.foreground": "#3a3a6e",
+		"editorLineNumber.activeForeground": "#a197e1",
 		"editor.wordHighlightBackground": "#07070e00",
 		"editor.selectionHighlightBackground": "#07070e29",
 
@@ -123,8 +123,8 @@
 		"terminal.ansiBrightMagenta": "#a197e1",
 		"terminal.ansiGreen": "#45a361",
 		"terminal.ansiBrightGreen": "#5ba571",
-		"terminal.ansiBlack": "#000000",
-		"terminal.ansiBrightBlack": "#000000",
+		"terminal.ansiBlack": "#40436e",
+		"terminal.ansiBrightBlack": "#40436e",
 		"terminal.ansiBlue": "#8ebfff",
 		"terminal.ansiBrightBlue": "#8ebfff",
 		"terminal.ansiCyan": "#0E9594",
@@ -145,8 +145,8 @@
 		"breadcrumb.foreground": "#40436e",
 
 		// List
-		"list.activeSelectionForeground": "#40436e",
-		"list.inactiveSelectionForeground": "#40436e",
+		"list.activeSelectionForeground": "#A599E9",
+		"list.inactiveSelectionForeground": "#A599E9",
 		"list.inactiveSelectionBackground": "#121316",
 		"list.activeSelectionBackground": "#121316",
 		"list.hoverForeground": "#A599E9",
